@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ana Paula Oliveira de Lima
 
 
 <!-- **anapolima/anapolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!-- I'm a 19 years girl with a passion for programming. I'm graduating in Software Engineering, currently in the second period, and also studying Web Development. -->
+I'm a 19 years girl with a passion for programming. I'm graduating in Software Engineering, currently in the second period, and also studying Web Development.
 
 <!-- <div > -->
   <a href="https://github.com/anapolima">
