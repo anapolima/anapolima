@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <!-- I'm a 19 years girl with a passion for programming. I'm graduating in Software Engineering, currently in the second period, and also studying Web Development. -->
 
-<div >
+<!-- <div > -->
   <a href="https://github.com/anapolima">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=anapolima&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapolima&layout=compact&langs_count=16&theme=algolia"/>
-</div>
+<!-- </div> -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
