@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-I'm a 19 years girl with a passion for programming. I'm graduating in Software Engineering, currently in the second period, and also studying Web Development.
+I'm a 19 years girl with a passion for programming. I'm graduating in Software Engineering from Universidade Tecnológica Federal do Paraná, currently in the second period, and also studying Web Development at Alpha EdTech.
 
 <!-- <div > -->
   <a href="https://github.com/anapolima">
