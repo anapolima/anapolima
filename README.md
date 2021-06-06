@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/anapolima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapolima&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapolima&layout=compact&langs_count=16&theme=algolia"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anapolima&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapolima&layout=compact&langs_count=16&theme=algolia"/>
 </div>
